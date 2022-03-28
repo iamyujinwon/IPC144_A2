@@ -1,0 +1,6 @@
+﻿  a2ms2.c
+C:\Users\Yujin Won\Desktop\Summer\IPC 144\IPC-Project-master\A2\MS2\a2ms2.c(51,24): warning C4013: 'getInt' undefined; assuming extern returning int
+  contactHelpers.c
+C:\Users\Yujin Won\Desktop\Summer\IPC 144\IPC-Project-master\A2\MS2\contactHelpers.c(159,10): warning C4101: 'input': unreferenced local variable
+  Generating Code...
+  A2MS2.vcxproj -> C:\Users\Yujin Won\Desktop\Summer\IPC 144\IPC-Project-master\A2\MS2\Debug\A2MS2.exe
